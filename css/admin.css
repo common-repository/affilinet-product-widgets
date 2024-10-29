@@ -1,0 +1,8 @@
+
+
+.wp-admin .affilinet-browser-extension-show-v2 {
+    display: none;
+}
+.affilinet-browser-extension-installed .affilinet-browser-extension-show-v2 {
+    display: block !important;
+}
